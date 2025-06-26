@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elmansori-a2b8031b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://your-portfolio-link.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=google-chrome&style=for-the-badge" /></a>
+  <a href="mailto:elmanmohamed632@gmail.com.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://portfolio-elmansorimo.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=google-chrome&style=for-the-badge" /></a>
 </p>
 
 ---
